@@ -100,9 +100,10 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ---
 
-## 📬 Contact
+## Contact
 
-For any queries or suggestions:
-**Author:** Your Name
-**Email:** [krnkreddy2004@gmail.com](mailto:krnkreddy2004@gmail.com)
-**GitHub:** [Krnkreddy](https://github.com/Krnkreddy)
+**K Ranga Nitheesh Kumar Reddy**
+
+* Email: [krnkreddy2004@gmail.com](mailto:krnkreddy2004@gmail.com)
+* LinkedIn: [linkedin.com/in/KrnkReddy](https://www.linkedin.com/in/krnkreddy/)
+* GitHub: [github.com/Krnkreddy](https://github.com/Krnkreddy)
