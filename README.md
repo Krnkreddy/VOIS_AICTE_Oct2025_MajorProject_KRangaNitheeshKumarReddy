@@ -94,6 +94,10 @@ cd netflix-dataset-analysis
 
 ---
 
+**Project Status:** Completed ✅ | Internship Certified 🎓
+
+---
+
 ## 📜 License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
