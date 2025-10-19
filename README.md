@@ -108,6 +108,6 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 **K Ranga Nitheesh Kumar Reddy**
 
-* Email: [krnkreddy2004@gmail.com](mailto:krnkreddy2004@gmail.com)
+* Email: [k.r.nitheeshkumarreddy@gmail.com](mailto:k.r.nitheeshkumarreddy@gmail.com)
 * LinkedIn: [linkedin.com/in/KrnkReddy](https://www.linkedin.com/in/krnkreddy/)
 * GitHub: [github.com/Krnkreddy](https://github.com/Krnkreddy)
